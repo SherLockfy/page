@@ -1,2 +1,2 @@
 # page
-https://github.com/SherLockfy/page/HTML/3简单的页面布局.html
+https://sherlockfy.github.io/Newspaper-Publishing/HTML/3简单的页面布局.html
